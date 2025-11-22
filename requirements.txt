@@ -1,0 +1,9 @@
+aiogram==3.14.0
+pydub==0.25.1
+numpy==1.26.4
+python-dotenv==1.0.1
+transformers==4.40.0
+torch==2.2.0
+librosa==0.10.2
+soundfile==0.12.1
+requests==2.31.0
